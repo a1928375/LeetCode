@@ -21,4 +21,10 @@
 
 9. mergeSortedArray: (88) Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array. The number of elements initialized in nums1 and nums2 are m and n respectively. You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2.
 
-10. 
+10. searchInsertPosition: (35) Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You may assume no duplicates in the array.
+
+11. search2DMatrix: (74) Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:
+                Integers in each row are sorted from left to right.
+                The first integer of each row is greater than the last integer of the previous row.
+
+12. BinarySearch: The concepts of binary search.
