@@ -40,4 +40,3 @@
 17. binaryTreeZigzagLevelTraversal: (103) Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).
 
 18. binaryTreeLevelOrderTraversal: (102) Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
-
