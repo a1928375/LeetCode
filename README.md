@@ -34,3 +34,10 @@
 14. searchInRotatedSortedArray: (33) Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]). You are given a target value to search. If found in the array return its index, otherwise return -1. You may assume no duplicate exists in the array. Your algorithm's runtime complexity must be in the order of O(log n).
 
 15. PartitionArray: (561) Given an array of 2n integers, your task is to group these integers into n pairs of integer, say (a1, b1), (a2, b2), ..., (an, bn) which makes sum of min(ai, bi) for all i from 1 to n as large as possible.
+
+16. rotateString_LeetCodeVersion: (769) We are given two strings, A and B. A shift on A consists of taking string A and moving the leftmost character to the rightmost position. For example, if A = 'abcde', then it will be 'bcdea' after one shift on A. Return True if and only if A can become B after some number of shifts on A.
+
+17. binaryTreeZigzagLevelTraversal: (103) Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).
+
+18. binaryTreeLevelOrderTraversal: (102) Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
+
