@@ -40,3 +40,9 @@
 17. binaryTreeZigzagLevelTraversal: (103) Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).
 
 18. binaryTreeLevelOrderTraversal: (102) Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
+
+19. searchRangeInBST: (700) Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.
+
+20. binaryTreePostorderTraversal: (145) Given a binary tree, return the postorder traversal of its nodes' values.
+
+21. binaryTreePreorderTraversal: (144) Given a binary tree, return the preorder traversal of its nodes' values.
