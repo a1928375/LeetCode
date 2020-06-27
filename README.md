@@ -49,6 +49,6 @@
 
 22. binaryTreeInorderTraversal: (94) Given a binary tree, return the inorder traversal of its nodes' values.
 
-23. maximumDepthOfABinaryTree: (104) Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node. Note: A leaf is a node with no children..
+23. maximumDepthOfABinaryTree: (104) Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node. Note: A leaf is a node with no children.
 
 24. mergeSort: The concepts of merge sort.
