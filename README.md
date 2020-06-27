@@ -46,3 +46,9 @@
 20. binaryTreePostorderTraversal: (145) Given a binary tree, return the postorder traversal of its nodes' values.
 
 21. binaryTreePreorderTraversal: (144) Given a binary tree, return the preorder traversal of its nodes' values.
+
+22. binaryTreeInorderTraversal: (94) Given a binary tree, return the inorder traversal of its nodes' values.
+
+23. maximumDepthOfABinaryTree: () .
+
+24. 
