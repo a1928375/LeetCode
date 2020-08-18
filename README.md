@@ -87,4 +87,4 @@
 
 41: backpackOne: Given n items with size Ai, an integer m denotes the size of a backpack. How full you can fill this backpack?
 
-42: backpackTwo: There are n items and a backpack with size m. Given array A representing the size of each item and array V representing the value of each item. What's the maximum value can you put into the backpack? A[i], V[i], n, m are all integers. You can not split an item. The sum size of the items you want to put into backpack can not exceed m. Each item can only be picked up once
+42. backpackTwo: There are n items and a backpack with size m. Given array A representing the size of each item and array V representing the value of each item. What's the maximum value can you put into the backpack? A[i], V[i], n, m are all integers. You cannot split an item. The sum size of the items you want to put into backpack cannot exceed m. Each item can only be picked up once.
