@@ -83,8 +83,9 @@
 
 39. minimumPathSum: (64) Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right which minimizes the sum of all numbers along its path. Note: You can only move either down or right at any point in time.
 
-40: Pascal'sTriangle: (118) Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+40. Pascal'sTriangle: (118) Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
 
-41: backpackOne: Given n items with size Ai, an integer m denotes the size of a backpack. How full you can fill this backpack?
+41. backpackOne: Given n items with size Ai, an integer m denotes the size of a backpack. How full you can fill this backpack?
 
 42. backpackTwo: There are n items and a backpack with size m. Given array A representing the size of each item and array V representing the value of each item. What's the maximum value can you put into the backpack? A[i], V[i], n, m are all integers. You cannot split an item. The sum size of the items you want to put into backpack cannot exceed m. Each item can only be picked up once.
+
