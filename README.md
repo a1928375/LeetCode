@@ -91,6 +91,6 @@
 
 43. maximumSubarray: (53) Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
-44. backpackThree: Given n kinds of items, and each kind of item has an infinite number available. The i-th item has size A[i] and value V[i]. Also given a backpack with size m. What is the maximum value you can put into the backpack? You cannot divide item into small pieces. Total size of items you put into backpack can not exceed m.
+44. backpackThree: Given n kinds of items, and each kind of item has an infinite number available. The i-th item has size A[i] and value V[i]. Also given a backpack with size m. What is the maximum value you can put into the backpack? You cannot divide item into small pieces. Total size of items you put into backpack cannot exceed m.
 
 45. backpackFive: Given n items with size nums[i] which an integer array and all positive numbers. An integer target denotes the size of a backpack. Find the number of possible fill the backpack. Each item may only be used once.
