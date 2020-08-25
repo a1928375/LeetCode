@@ -94,3 +94,7 @@
 44. backpackThree: Given n kinds of items, and each kind of item has an infinite number available. The i-th item has size A[i] and value V[i]. Also given a backpack with size m. What is the maximum value you can put into the backpack? You cannot divide item into small pieces. Total size of items you put into backpack cannot exceed m.
 
 45. backpackFive: Given n items with size nums[i] which an integer array and all positive numbers. An integer target denotes the size of a backpack. Find the number of possible fill the backpack. Each item may only be used once.
+
+46. removeDuplicates: (83) Given a sorted linked list, delete all duplicates such that each element appear only once.
+
+47. removeDuplicatesTwo: (82) Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
