@@ -95,6 +95,6 @@
 
 45. backpackFive: Given n items with size nums[i] which an integer array and all positive numbers. An integer target denotes the size of a backpack. Find the number of possible fill the backpack. Each item may only be used once.
 
-46. removeDuplicates: (83) Given a sorted linked list, delete all duplicates such that each element appear only once.
+46. removeDuplicates: (83) Given a sorted linked list, delete all duplicates such that each element appears only once.
 
 47. removeDuplicatesTwo: (82) Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
