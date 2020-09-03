@@ -98,3 +98,11 @@
 46. removeDuplicates: (83) Given a sorted linked list, delete all duplicates such that each element appears only once.
 
 47. removeDuplicatesTwo: (82) Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+
+48. reverseLinkedList: (206) Reverse a singly linked list.
+
+49. reverseBetween: (92) Reverse a linked list from position m to n. Do it in one-pass. Note: 1 ≤ m ≤ n ≤ length of list.
+
+50. mergeTwoSortedLists: (21) Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.
+
+51. partitionList: (86) Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x. You should preserve the original relative order of the nodes in each of the two partitions.
